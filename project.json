@@ -73,7 +73,7 @@
       {
         "editingStatus": "Publishable",
         "testCaseId": "b1c35312-4137-4bed-809b-9d889d29c1e6",
-        "dataVariationFilePath": ".variations\\Data-Driven Loan.json",
+        "dataVariationFilePath": ".variations\\Loan Quotes_Loan Quotes.json",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "Test Cases\\Data-Driven Loan.xaml"
