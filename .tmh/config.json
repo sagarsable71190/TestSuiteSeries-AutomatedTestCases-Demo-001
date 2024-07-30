@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/uipathtamindia/sagarsable/testmanager_",
+  "defaultProject": {
+    "id": "f76bde8e-b073-0000-c5c1-0b47181ed35d",
+    "name": "TestSuiteSeries-Demo-003",
+    "key": "TSSD003"
+  }
+}

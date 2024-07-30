@@ -1,0 +1,96 @@
+{
+  "name": "TestSuiteSeries-AutomatedTestCases-Demo-001",
+  "projectId": "2b99d9c9-1ce6-48fe-ace7-9dde2b9b7f89",
+  "description": "TestSuiteSeries-AutomatedTestCases-Demo-001",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[24.10.3]",
+    "UiPath.Testing.Activities": "[24.10.0]",
+    "UiPath.UIAutomation.Activities": "[24.10.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.10.1.0",
+  "projectVersion": "1.0.3",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "73d69a03-9cff-44fa-a72a-1fc4fcb61028",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Test Cases\\High Volume Loan.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8cccb7ff-46df-4f15-a618-f27035a95f09",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Test Cases\\Mid Term Loan.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c33d2b87-de11-4716-a16a-843f3b298edd",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Test Cases\\Small Volume Loan.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "83fe04b3-b0e6-4c5d-9296-6f8a02522e77",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Test Cases\\Medium Volume Loan.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "b1c35312-4137-4bed-809b-9d889d29c1e6",
+        "dataVariationFilePath": ".variations\\Data-Driven Loan.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Test Cases\\Data-Driven Loan.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1b48ecd8-2f18-4a92-859f-e7334f0eeb89",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Test Cases\\Short Term Loan.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
